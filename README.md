@@ -16,6 +16,6 @@ Make sure you have Python and Scrapy installed. You can install Scrapy using the
 pip install scrapy
 
 git clone https://github.com/swim0000/url_grabber.git
-cd your_project
+cd url_grabber
 
 scrapy crawl url_spider
